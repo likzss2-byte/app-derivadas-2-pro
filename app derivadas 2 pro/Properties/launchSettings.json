@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "app derivadas 2 pro (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "app derivadas 2 pro (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
